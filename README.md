@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Sreehari Pradeesh
+#  Hi, I'm Sreehari Pradeesh
 
-🎓 B.Tech Computer Science (Cybersecurity Specialization) Student at Amrita Vishwa Vidyapeetham  
-🔐 Passionate about Cybersecurity, Ethical Hacking, Machine Learning & Secure Systems  
-🚀 Focused on building secure, intelligent, and scalable applications  
+ B.Tech Computer Science (Cybersecurity Specialization) Student at Amrita Vishwa Vidyapeetham  
+ Passionate about Cybersecurity, Ethical Hacking, Machine Learning & Secure Systems  
+ Focused on building secure, intelligent, and scalable applications  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am currently pursuing a B.Tech in Computer Science with a specialization in Cybersecurity at Amrita Vishwa Vidyapeetham, with a strong interest in building secure, intelligent, and scalable systems.
 
@@ -24,7 +24,7 @@ I enjoy building practical projects and continuously learning through hands-on e
 
 # 🛠 Tech Stack
 
-## 💻 Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -33,7 +33,7 @@ I enjoy building practical projects and continuously learning through hands-on e
 
 ---
 
-## 🔐 Cybersecurity Tools
+## Cybersecurity Tools
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
@@ -42,7 +42,7 @@ I enjoy building practical projects and continuously learning through hands-on e
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -51,9 +51,9 @@ I enjoy building practical projects and continuously learning through hands-on e
 
 ---
 
-# 🚀 Projects
+# Projects
 
-## 🔍 ML-Based Network Anomaly Detection System
+## ML-Based Network Anomaly Detection System
 Developed a machine learning-based network anomaly detection system capable of identifying suspicious traffic patterns and potential cyber threats.
 
 ### Technologies Used:
@@ -64,7 +64,7 @@ Developed a machine learning-based network anomaly detection system capable of i
 
 ---
 
-## 🖼️ Steganography Tool
+## Steganography Tool
 Built a secure steganography application for hiding and extracting sensitive information within image files.
 
 ### Features:
@@ -74,7 +74,7 @@ Built a secure steganography application for hiding and extracting sensitive inf
 
 ---
 
-## 🧠 Interval Tree-Based Memory Allocation System
+## Interval Tree-Based Memory Allocation System
 Implemented a memory allocation system using interval trees and advanced data structures for efficient memory management.
 
 ### Concepts Used:
@@ -84,7 +84,7 @@ Implemented a memory allocation system using interval trees and advanced data st
 
 ---
 
-## 📱 Android Photo Editing Application
+## Android Photo Editing Application
 Created an Android application featuring real-time image processing and editing capabilities.
 
 ### Features:
@@ -94,7 +94,7 @@ Created an Android application featuring real-time image processing and editing 
 
 ---
 
-## 🏦 Bank Management System
+## Bank Management System
 Developed a backend-focused bank management system using Python and MySQL.
 
 ### Features:
@@ -104,7 +104,7 @@ Developed a backend-focused bank management system using Python and MySQL.
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 - Cybersecurity & Ethical Hacking
 - Network Security
@@ -116,7 +116,7 @@ Developed a backend-focused bank management system using Python and MySQL.
 
 ---
 
-# 📚 Currently Exploring
+# Currently Exploring
 
 - Advanced Penetration Testing
 - Secure System Architecture
@@ -126,15 +126,11 @@ Developed a backend-focused bank management system using Python and MySQL.
 
 ---
 
-# 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sreehari-pradeesh-501918263/)
 
@@ -142,10 +138,6 @@ Developed a backend-focused bank management system using Python and MySQL.
 
 ---
 
-# ⚡ Fun Fact
 
-I enjoy exploring how systems work internally — from secure backend architectures to cybersecurity attack vectors and defense mechanisms.
-
----
 
 ⭐ *“Learning to defend , Built to Protect”*
