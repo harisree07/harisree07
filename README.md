@@ -51,58 +51,7 @@ I enjoy building practical projects and continuously learning through hands-on e
 
 ---
 
-# Projects
 
-## ML-Based Network Anomaly Detection System
-Developed a machine learning-based network anomaly detection system capable of identifying suspicious traffic patterns and potential cyber threats.
-
-### Technologies Used:
-- Python
-- Scikit-learn
-- TensorFlow
-- Network Traffic Analysis
-
----
-
-## Steganography Tool
-Built a secure steganography application for hiding and extracting sensitive information within image files.
-
-### Features:
-- Data Encryption
-- Image-based Information Hiding
-- Secure Extraction
-
----
-
-## Interval Tree-Based Memory Allocation System
-Implemented a memory allocation system using interval trees and advanced data structures for efficient memory management.
-
-### Concepts Used:
-- Data Structures & Algorithms
-- Memory Optimization
-- Interval Trees
-
----
-
-## Android Photo Editing Application
-Created an Android application featuring real-time image processing and editing capabilities.
-
-### Features:
-- Real-Time Filters
-- Image Processing
-- Mobile UI/UX
-
----
-
-## Bank Management System
-Developed a backend-focused bank management system using Python and MySQL.
-
-### Features:
-- Database Management
-- Backend Logic
-- Transaction Handling
-
----
 
 # Areas of Interest
 
